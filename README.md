@@ -82,5 +82,14 @@ Possíveis melhorias futuras
 
 - Uso de dados reais de vendas  
 - Implementação de modelos de Machine Learning  
-- Integração com sistemas de estoque  
+- Integração com sistemas de estoque
+
+Proposta de valor para a Lupo
+
+Se aplicada, a IA pode ajudar a Lupo a:
+
+- antecipar tendências de consumo  
+- reduzir perdas com estoque parado  
+- aumentar vendas em períodos estratégicos  
+- tomar decisões mais rápidas e baseadas em dados  
 
