@@ -77,3 +77,10 @@ Este projeto demonstra como a Inteligência Artificial pode ser aplicada de form
 Sobre mim
 
 Profissional com interesse em negócios, inovação e uso da Inteligência Artificial para resolver problemas reais nas empresas.
+
+Possíveis melhorias futuras
+
+- Uso de dados reais de vendas  
+- Implementação de modelos de Machine Learning  
+- Integração com sistemas de estoque  
+
