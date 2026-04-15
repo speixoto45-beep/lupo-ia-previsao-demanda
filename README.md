@@ -91,5 +91,11 @@ Se aplicada, a IA pode ajudar a Lupo a:
 - antecipar tendências de consumo  
 - reduzir perdas com estoque parado  
 - aumentar vendas em períodos estratégicos  
-- tomar decisões mais rápidas e baseadas em dados  
+- tomar decisões mais rápidas e baseadas em dados
+
+Impacto esperado
+
+- Redução de desperdício de estoque  
+- Aumento de vendas em períodos sazonais  
+- Melhor tomada de decisão baseada em dados  
 
