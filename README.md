@@ -81,10 +81,10 @@ Sobre mim
 Profissional com interesse em negócios, inovação e uso da Inteligência Artificial para resolver problemas reais nas empresas.
 
 Possíveis melhorias futuras
-
-- Uso de dados reais de vendas  
-- Implementação de modelos de Machine Learning  
-- Integração com sistemas de estoque
+- Aplicação do modelo com dados reais de vendas  
+- Implementação de modelos de Machine Learning para previsão de demanda  
+- Integração com sistemas de gestão (estoque e vendas)  
+- Criação de dashboards para análise e tomada de decisão  
 
 Proposta de valor para a Lupo
 
@@ -101,4 +101,11 @@ Impacto esperado
 - Aumento de vendas em períodos sazonais  
 - Reduzir desperdício de estoque
 - Melhorar a tomada de decisão
-- Aumentar a lucratividade
+- Aumento da eficiência
+- Melhor planejamento de vendas
+- Maior lucratividade
+
+Como a IA toma decisão
+
+A IA analisa padrões de vendas ao longo do tempo e identifica tendências.  
+Com base nesses dados, gera previsões e recomenda ajustes de estoque e estratégias de venda.
