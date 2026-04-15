@@ -72,7 +72,9 @@ A Lupo pode utilizar IA para:
 
 Conclusão
 
-Este projeto demonstra como a Inteligência Artificial pode ser aplicada de forma prática para gerar valor no varejo.
+Este projeto demonstra como a Inteligência Artificial pode ser aplicada de forma estratégica no varejo, contribuindo para decisões mais eficientes, redução de custos e aumento de resultados.
+
+A proposta evidencia o potencial de uso da IA como ferramenta de apoio à gestão e crescimento empresarial.
 
 Sobre mim
 
@@ -97,5 +99,6 @@ Impacto esperado
 
 - Redução de desperdício de estoque  
 - Aumento de vendas em períodos sazonais  
-- Melhor tomada de decisão baseada em dados  
-
+- Reduzir desperdício de estoque
+- Melhorar a tomada de decisão
+- Aumentar a lucratividade
