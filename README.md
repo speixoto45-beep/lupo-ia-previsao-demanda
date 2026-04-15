@@ -1,4 +1,4 @@
-IA aplicada ao Varejo – Caso Lupo
+IA aplicada ao Varejo – Previsão de Demanda e Estratégia Comercial (Caso Lupo)
 Contexto e Objetivo
 
 Este projeto tem como objetivo explorar como a Inteligência Artificial pode apoiar decisões estratégicas no varejo, utilizando como estudo de caso a empresa Lupo.
